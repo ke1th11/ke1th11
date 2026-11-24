@@ -1,6 +1,6 @@
 # Hi, I'm Bruno Sousa 👋
 
-Physics Engineering graduate from the **University of Minho**, currently pursuing an **MSc in Industrial Management and Decision** at ESTG – UTP.
+Physics Engineering graduate from the **University of Minho**, currently pursuing an **MSc in Industrial Management and Decision-Making** at ESTG – UTP.
 
 I'm interested in **data analysis, modelling, optimization and industrial process improvement**, with hands-on experience in programming, computational simulation and technical projects.
 
