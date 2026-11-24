@@ -1,6 +1,6 @@
 # Hi, I'm Bruno Sousa 👋
 
-**Physics Engineering** graduate from the University of Minho, currently pursuing a **MSc in Industrial Management and Decision-Making** at ESTG – UTP.
+**Physics Engineering** graduate from the University of Minho, currently pursuing a **MSc in Management and Industrial Decision-Making** at ESTG – UTP.
 
 I'm interested in **data analysis, modelling, optimization and industrial process improvement**, with hands-on experience in programming, computational simulation and technical projects.
 
@@ -40,7 +40,7 @@ Parallelization of a PIC plasma simulation on CPU and GPU using **OpenMP, MPI an
 
 ## 🎓 Education
 
-- **MSc in Industrial Management and Decision**, ESTG – UTP (2026 – present)
+- **MSc in Management and Industrial Decision-Making**, ESTG – UTP (2026 – present)
 - **BSc in Physics Engineering**, University of Minho (2023 – 2026)
 
 ---
