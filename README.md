@@ -24,7 +24,10 @@ I'm interested in **data analysis, modelling, optimization and industrial proces
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### [Transfermarkt SQL Analysis](https://github.com/ke1th11/transfermarkt-sql-analysis)
+SQL Server analysis of football data: data loading, validation and cleaning, followed by 7 business questions answered with CTEs and window functions (home advantage and COVID-19, top scorers, market value evolution, transfer spending, league records and more).
 
 ### [Parallel Optimization of a Particle-in-Cell (PIC) Simulation](https://github.com/ke1th11/PP_PIC)
 Parallelization of a PIC plasma simulation on CPU and GPU using **OpenMP, MPI and CUDA**, including performance and scalability evaluation in a parallel computing environment.
